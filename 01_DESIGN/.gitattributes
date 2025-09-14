@@ -1,0 +1,18 @@
+# Treat Altium design files as binary; stop and ask on conflicts
+*.SchDoc  -text -diff merge=binary
+*.PcbDoc  -text -diff merge=binary
+*.SchLib  -text -diff merge=binary
+*.PcbLib  -text -diff merge=binary
+*.IntLib  -text -diff merge=binary
+
+# 3D/mech
+*.step    -text -diff merge=binary
+*.stp     -text -diff merge=binary
+*.3dstep  -text -diff merge=binary
+
+# Keep project control files as text (nice diffs/line endings)
+*.PrjPcb  text eol=lf
+*.PrjSch  text eol=lf
+*.OutJob  text eol=lf
+*.BomDoc  text eol=lf
+*.CmpLib  text eol=lf

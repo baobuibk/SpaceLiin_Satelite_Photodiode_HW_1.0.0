@@ -1,0 +1,38 @@
+# --- Altium transient/output folders ---
+/History/**
+/Project Outputs*/**
+/Project Logs for */**
+/Generated/**
+/Simulation/**
+
+# Previews & caches
+/__Previews/**
+
+# Draftsman temp/cache (safe to regenerate)
+/*.DwfCache
+/*.DfmCache
+
+# Logs, temp, backups
+*.LOG
+*.PLOG
+*.Swp
+*.Dmp
+*.bak
+*.tmp
+~$*
+
+# Local workspace/session files (user-specific)
+*.DsnWrk
+*.PrjPcbStructure
+*.GraphEditorsCache
+*.EditorState
+
+# Integrated/compiled library outputs (prefer source libs)
+*.IntLib
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# If you keep release packages, do NOT ignore them:
+# releases/**  <-- keep tracked; do not ignore
