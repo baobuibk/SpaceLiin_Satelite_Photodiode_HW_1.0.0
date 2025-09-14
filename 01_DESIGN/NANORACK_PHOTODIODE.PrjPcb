@@ -347,270 +347,354 @@ DocumentPath=Project Outputs for NANORACK_PHOTODIODE\Design Rule Check - PHOTODI
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.1.2.DRR
+DocumentPath=Project Outputs for NANORACK_PHOTODIODE\Design Rule Check - PHOTODIODE_V1.3.html
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.1.2.EXTREP
+DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.1.2.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.1.2.LDP
+DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.1.2.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.1.2.REP
+DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.1.2.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.1.2.RUL
+DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.1.2.REP
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.1.2.TXT
+DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.1.2.RUL
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.1.2_Bottom.gbr
+DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.1.2.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.1.2_Keep-out.gbr
+DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.1.2_Bottom.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.1.2_Legend_Bot.gbr
+DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.1.2_Keep-out.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.1.2_Legend_Top.gbr
+DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.1.2_Legend_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.1.2_Pads_Bot.gbr
+DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.1.2_Legend_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.1.2_Pads_Top.gbr
+DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.1.2_Pads_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.1.2_Paste_Bot.gbr
+DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.1.2_Pads_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.1.2_Paste_Top.gbr
+DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.1.2_Paste_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.1.2_Profile.gbr
+DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.1.2_Paste_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.1.2_Signal_1_GND.gbr
+DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.1.2_Profile.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.1.2_Signal_2.gbr
+DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.1.2_Signal_1_GND.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.1.2_Soldermask_Bot.gbr
+DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.1.2_Signal_2.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.1.2_Soldermask_Top.gbr
+DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.1.2_Soldermask_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.1.2_Top.gbr
+DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.1.2_Soldermask_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.2.0.DRR
+DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.1.2_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument24]
-DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.2.0.EXTREP
+DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.2.0.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument25]
-DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.2.0.LDP
+DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.2.0.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument26]
-DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.2.0.REP
+DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.2.0.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument27]
-DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.2.0.RUL
+DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.2.0.REP
 DItemRevisionGUID=
 
 [GeneratedDocument28]
-DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.2.0.TXT
+DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.2.0.RUL
 DItemRevisionGUID=
 
 [GeneratedDocument29]
-DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.2.0_Bottom.gbr
+DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.2.0.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument30]
-DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.2.0_Copper_Signal_1.gbr
+DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.2.0_Bottom.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument31]
-DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.2.0_Copper_Signal_2.gbr
+DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.2.0_Copper_Signal_1.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument32]
-DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.2.0_Copper_Signal_Bot.gbr
+DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.2.0_Copper_Signal_2.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument33]
-DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.2.0_Copper_Signal_Top.gbr
+DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.2.0_Copper_Signal_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument34]
-DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.2.0_Keep-out.gbr
+DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.2.0_Copper_Signal_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument35]
-DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.2.0_Legend_Bot.gbr
+DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.2.0_Keep-out.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument36]
-DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.2.0_Legend_Top.gbr
+DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.2.0_Legend_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument37]
-DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.2.0_Pads_Bot.gbr
+DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.2.0_Legend_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument38]
-DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.2.0_Pads_Top.gbr
+DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.2.0_Pads_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument39]
-DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.2.0_Paste_Bot.gbr
+DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.2.0_Pads_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument40]
-DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.2.0_Paste_Top.gbr
+DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.2.0_Paste_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument41]
-DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.2.0_Profile.gbr
+DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.2.0_Paste_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument42]
-DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.2.0_Signal_1_GND.gbr
+DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.2.0_Profile.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument43]
-DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.2.0_Signal_2.gbr
+DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.2.0_Signal_1_GND.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument44]
-DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.2.0_Soldermask_Bot.gbr
+DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.2.0_Signal_2.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument45]
-DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.2.0_Soldermask_Top.gbr
+DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.2.0_Soldermask_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument46]
-DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.2.0_Top.gbr
+DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.2.0_Soldermask_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument47]
-DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.2.1.DRR
+DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.2.0_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument48]
-DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.2.1.EXTREP
+DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.2.1.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument49]
-DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.2.1.LDP
+DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.2.1.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument50]
-DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.2.1.REP
+DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.2.1.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument51]
-DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.2.1.RUL
+DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.2.1.REP
 DItemRevisionGUID=
 
 [GeneratedDocument52]
-DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.2.1.TXT
+DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.2.1.RUL
 DItemRevisionGUID=
 
 [GeneratedDocument53]
-DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.2.1_Copper_Signal_1.gbr
+DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.2.1.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument54]
-DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.2.1_Copper_Signal_2.gbr
+DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.2.1_Copper_Signal_1.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument55]
-DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.2.1_Copper_Signal_Bot.gbr
+DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.2.1_Copper_Signal_2.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument56]
-DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.2.1_Copper_Signal_Top.gbr
+DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.2.1_Copper_Signal_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument57]
-DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.2.1_Keep-out.gbr
+DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.2.1_Copper_Signal_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument58]
-DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.2.1_Legend_Bot.gbr
+DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.2.1_Keep-out.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument59]
-DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.2.1_Legend_Top.gbr
+DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.2.1_Legend_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument60]
-DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.2.1_Pads_Bot.gbr
+DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.2.1_Legend_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument61]
-DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.2.1_Pads_Top.gbr
+DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.2.1_Pads_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument62]
-DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.2.1_Paste_Bot.gbr
+DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.2.1_Pads_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument63]
-DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.2.1_Paste_Top.gbr
+DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.2.1_Paste_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument64]
-DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.2.1_Profile.gbr
+DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.2.1_Paste_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument65]
-DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.2.1_Soldermask_Bot.gbr
+DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.2.1_Profile.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument66]
-DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.2.1_Soldermask_Top.gbr
+DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.2.1_Soldermask_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument67]
-DocumentPath=Project Outputs for NANORACK_PHOTODIODE\Pick Place for PHOTODIODE_V1.1.2.csv
+DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.2.1_Soldermask_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument68]
-DocumentPath=Project Outputs for NANORACK_PHOTODIODE\Pick Place for PHOTODIODE_V1.2.0.csv
+DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.3.0.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument69]
+DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.3.0.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument70]
+DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.3.0.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument71]
+DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.3.0.REP
+DItemRevisionGUID=
+
+[GeneratedDocument72]
+DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.3.0.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument73]
+DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.3.0.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument74]
+DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.3.0_Copper_Signal_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument75]
+DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.3.0_Copper_Signal_2.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument76]
+DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.3.0_Copper_Signal_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument77]
+DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.3.0_Copper_Signal_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument78]
+DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.3.0_Keep-out.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument79]
+DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.3.0_Legend_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument80]
+DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.3.0_Legend_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument81]
+DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.3.0_Pads_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument82]
+DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.3.0_Pads_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument83]
+DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.3.0_Paste_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument84]
+DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.3.0_Paste_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument85]
+DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.3.0_Profile.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument86]
+DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.3.0_Soldermask_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument87]
+DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.3.0_Soldermask_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument88]
+DocumentPath=Project Outputs for NANORACK_PHOTODIODE\Pick Place for PHOTODIODE_V1.1.2.csv
+DItemRevisionGUID=
+
+[GeneratedDocument89]
+DocumentPath=Project Outputs for NANORACK_PHOTODIODE\Pick Place for PHOTODIODE_V1.2.0.csv
+DItemRevisionGUID=
+
+[GeneratedDocument90]
 DocumentPath=Project Outputs for NANORACK_PHOTODIODE\Pick Place for PHOTODIODE_V1.2.1.csv
 DItemRevisionGUID=
 
@@ -788,7 +872,7 @@ OutputDefault1=0
 Name=Documentation Outputs
 Description=
 TargetPrinter=Microsoft Print to PDF
-PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=0
 OutputType1=Composite
 OutputName1=Composite Drawing
 OutputDocumentPath1=
@@ -860,7 +944,9 @@ OutputName12=Schematic Prints
 OutputDocumentPath12=
 OutputVariantName12=
 OutputDefault12=0
-PageOptions12=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+PageOptions12=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=0.70|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=0|PaperKind=A4|PaperIndex=9
+Configuration12_Name1=OutputConfigurationParameter1
+Configuration12_Item1=Record=SchPrintView|ShowNoERC=True|ShowParamSet=True|ShowProbe=True|ShowBlanket=True|NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle|ShowNote=True|ShowNoteCollapsed=True|ShowOpenEnds=True|ExpandDesignator=True|ExpandNetLabel=False|ExpandPort=False|ExpandSheetNum=False|ExpandDocNum=False|PrintArea=0|PrintAreaRect.X1=0|PrintAreaRect.Y1=0|PrintAreaRect.X2=0|PrintAreaRect.Y2=0|DocumentPath=D:\anh_khoa\document\project\altium\space_liin_tech\NANORACK_PHOTODIODE\NANORACK_PHOTODIODE_V1.3.0\01_DESIGN\COMMUNICATION.SchDoc
 OutputType13=SimView Print
 OutputName13=SimView Prints
 OutputDocumentPath13=
@@ -912,7 +998,7 @@ OutputDefault1=0
 Configuration1_Name1=ForceUpdateSettings
 Configuration1_Item1=False
 Configuration1_Name2=OutputConfigurationParameter1
-Configuration1_Item2=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=False|GenerateSeparateViaTypeFiles=False|GenerateToolsByDrillSymbols=False|NumberOfDecimals=2|NumberOfUnits=4|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Metric|ZeroesMode=SuppressLeadingZeroes|DocumentPath=D:\WorkSpace\Altium\NANORACK\PHOTODIODE V1.2.1\01_DESIGN\PHOTODIODE_V1.2.1.PcbDoc
+Configuration1_Item2=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=False|GenerateSeparateViaTypeFiles=False|GenerateToolsByDrillSymbols=False|NumberOfDecimals=2|NumberOfUnits=4|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Metric|ZeroesMode=SuppressLeadingZeroes|DocumentPath=D:\anh_khoa\document\project\altium\space_liin_tech\NANORACK_PHOTODIODE\NANORACK_PHOTODIODE_V1.3.0\01_DESIGN\PHOTODIODE_V1.3.0.PcbDoc
 OutputType2=Mask
 OutputName2=Solder/Paste Mask Prints
 OutputDocumentPath2=
@@ -981,7 +1067,7 @@ OutputDefault12=0
 Configuration12_Name1=ForceUpdateSettings
 Configuration12_Item1=False
 Configuration12_Name2=OutputConfigurationParameter1
-Configuration12_Item2=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|BoardID=NJJBFCPL|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=500000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GenerateReports=True|GerberUnit=Metric|GerberUnit=Metric|IncludeUnconnectedMidLayerPads=True|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MergePadAndRegion=False|MinusApertureTolerance=50|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=4|NumberOfDecimals=4|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|OutputFormat=Single|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16777217~1,16777218~1,16777219~1,16842751~1,16973830~1,16973831~1,16973834~1,16973835~1,16973832~1,16973833~1,16973837~1,16973848~1,16973849~1|PlotBoardProfile=True|PlotBoardProfileFileName= |PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=50|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=True|Sorted=False|Sorted=False|UncheckPlotDrillDrawingLayerPair0_Backdrill=False|UncheckPlotDrillDrawingLayerPair0_Checked=False|UncheckPlotDrillDrawingLayerPair0_DrillType=Regular|UncheckPlotDrillDrawingLayerPair0_FileName= |UncheckPlotDrillDrawingLayerPair0_HighLayer=Bottom Layer|UncheckPlotDrillDrawingLayerPair0_LowLayer=Top Layer|UncheckPlotDrillGuideLayerPair0_Backdrill=False|UncheckPlotDrillGuideLayerPair0_Checked=False|UncheckPlotDrillGuideLayerPair0_DrillType=Regular|UncheckPlotDrillGuideLayerPair0_FileName= |UncheckPlotDrillGuideLayerPair0_HighLayer=Bottom Layer|UncheckPlotDrillGuideLayerPair0_LowLayer=Top Layer|DocumentPath=D:\WorkSpace\Altium\NANORACK\PHOTODIODE V1.2.1\01_DESIGN\PHOTODIODE_V1.2.1.PcbDoc
+Configuration12_Item2=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|BoardID=NJJBFCPL|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=500000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GenerateReports=True|GerberUnit=Metric|GerberUnit=Metric|IncludeUnconnectedMidLayerPads=True|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MergePadAndRegion=False|MinusApertureTolerance=50|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=4|NumberOfDecimals=4|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|OutputFormat=Single|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16777217~1,16777218~1,16777219~1,16842751~1,16973830~1,16973831~1,16973834~1,16973835~1,16973832~1,16973833~1,16973837~1,16973848~1,16973849~1|PlotBoardProfile=True|PlotBoardProfileFileName= |PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=50|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=True|Sorted=False|Sorted=False|UncheckPlotDrillDrawingLayerPair0_Backdrill=False|UncheckPlotDrillDrawingLayerPair0_Checked=False|UncheckPlotDrillDrawingLayerPair0_DrillType=Regular|UncheckPlotDrillDrawingLayerPair0_FileName= |UncheckPlotDrillDrawingLayerPair0_HighLayer=Bottom Layer|UncheckPlotDrillDrawingLayerPair0_LowLayer=Top Layer|UncheckPlotDrillGuideLayerPair0_Backdrill=False|UncheckPlotDrillGuideLayerPair0_Checked=False|UncheckPlotDrillGuideLayerPair0_DrillType=Regular|UncheckPlotDrillGuideLayerPair0_FileName= |UncheckPlotDrillGuideLayerPair0_HighLayer=Bottom Layer|UncheckPlotDrillGuideLayerPair0_LowLayer=Top Layer|DocumentPath=D:\anh_khoa\document\project\altium\space_liin_tech\NANORACK_PHOTODIODE\NANORACK_PHOTODIODE_V1.3.0\01_DESIGN\PHOTODIODE_V1.3.0.PcbDoc
 
 [OutputGroup6]
 Name=Report Outputs

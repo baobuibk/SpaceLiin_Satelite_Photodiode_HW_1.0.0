@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: D:\anh_khoa\document\project\altium\space_liin_tech\NANORACK_PHOTODIODE\NANORACK_PHOTODIODE_V1.3.0\01_DESIGN\PHOTODIODE_V1.3.0.PcbDoc
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=10.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=5.91
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
