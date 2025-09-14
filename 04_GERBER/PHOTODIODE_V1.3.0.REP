@@ -2,17 +2,6 @@
 FileName = PHOTODIODE_V1.3.0.GBR
 AutoAperture = True
 *************************************************************
-Generating : Keep-Out Layer
-      File : PHOTODIODE_V1.3.0_Keep-out.gbr
-
-    Adding Layer      : Keep-Out Layer
-
-
-Used DCodes :
-    D19
-*************************************************************
-
-*************************************************************
 Generating : Bottom Paste
       File : PHOTODIODE_V1.3.0_Paste_Bot.gbr
 
