@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: PHOTODIODE_V1.3.0.PcbDoc   15/9/25  00:05:19
+NCDrill File Report For: PHOTODIODE_V1.3.0.PcbDoc   15/9/25  09:46:12
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -7,12 +7,12 @@ ASCII RoundHoles File : PHOTODIODE_V1.3.0.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      0.3mm (12mil)           +0.05mm (2mil)                    Round             119       PTH        582.13mm (22.92inch)
+T1      0.3mm (12mil)           +0.05mm (2mil)                    Round             127       PTH        597.63mm (23.53inch)
 T2      0.3mm (12mil)                                             Round             1188      PTH        2496.74mm (98.30inch)
 T3      0.4mm (16mil)                                             Round             8         PTH        12.25mm (0.48inch)
 T4      0.5mm (20mil)                                             Round             64        PTH        462.70mm (18.22inch)
 T5      3.3mm (130mil)                                            Round             10        PTH        332.88mm (13.11inch)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              1389
+Totals                                                                              1397
 
 Total Processing Time (hh:mm:ss) : 00:00:01
