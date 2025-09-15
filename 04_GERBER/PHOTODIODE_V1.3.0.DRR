@@ -1,8 +1,8 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: PHOTODIODE_V1.3.0.PcbDoc   15/9/25  09:46:12
+NCDrill File Report For: PHOTODIODE_V1.3.0.PcbDoc   15/9/25  13:05:12
 ----------------------------------------------------------------------------------------------------------------------------------
 
-Layer Pair : Top Layer to Bottom Layer
+Layer Pair : L1_TOP to L4_BOT
 ASCII RoundHoles File : PHOTODIODE_V1.3.0.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel

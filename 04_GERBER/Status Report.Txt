@@ -1,12 +1,10 @@
-Output: NC Drill Files
-Type  : NC Drill
+Output: Report Board Stack
+Type  : Report Board Stack
 From  : Project [NANORACK_PHOTODIODE.PrjPcb]
-   Generated File[PHOTODIODE_V1.3.0.TXT]
-   Generated File[PHOTODIODE_V1.3.0.LDP]
-   Generated File[PHOTODIODE_V1.3.0.DRR]
+   Generated File[PHOTODIODE_V1.3.0.xls]
 
 
-Files Generated   : 3
+Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 09:46:13 On 15/9/25
+Finished Output Generation At 13:10:22 On 15/9/25

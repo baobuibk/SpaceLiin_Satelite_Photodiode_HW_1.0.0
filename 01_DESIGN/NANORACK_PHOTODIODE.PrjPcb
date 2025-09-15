@@ -338,6 +338,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UBHHKHBD
 
+[Document18]
+DocumentPath=..\03_BOM\NANORACK_PHOTODIODE.BomDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for NANORACK_PHOTODIODE\Design Rule Check - PHOTODIODE_V1.1.html
 DItemRevisionGUID=
@@ -631,70 +648,74 @@ DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.3.0.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument74]
-DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.3.0_Copper_Signal_1.gbr
+DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.3.0.xls
 DItemRevisionGUID=
 
 [GeneratedDocument75]
-DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.3.0_Copper_Signal_2.gbr
+DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.3.0_Copper_Signal_1.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument76]
-DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.3.0_Copper_Signal_Bot.gbr
+DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.3.0_Copper_Signal_2.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument77]
-DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.3.0_Copper_Signal_Top.gbr
+DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.3.0_Copper_Signal_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument78]
-DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.3.0_Keep-out.gbr
+DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.3.0_Copper_Signal_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument79]
-DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.3.0_Legend_Bot.gbr
+DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.3.0_Keep-out.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument80]
-DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.3.0_Legend_Top.gbr
+DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.3.0_Legend_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument81]
-DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.3.0_Pads_Bot.gbr
+DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.3.0_Legend_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument82]
-DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.3.0_Pads_Top.gbr
+DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.3.0_Pads_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument83]
-DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.3.0_Paste_Bot.gbr
+DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.3.0_Pads_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument84]
-DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.3.0_Paste_Top.gbr
+DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.3.0_Paste_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument85]
-DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.3.0_Profile.gbr
+DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.3.0_Paste_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument86]
-DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.3.0_Soldermask_Bot.gbr
+DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.3.0_Profile.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument87]
-DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.3.0_Soldermask_Top.gbr
+DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.3.0_Soldermask_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument88]
-DocumentPath=Project Outputs for NANORACK_PHOTODIODE\Pick Place for PHOTODIODE_V1.1.2.csv
+DocumentPath=Project Outputs for NANORACK_PHOTODIODE\PHOTODIODE_V1.3.0_Soldermask_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument89]
-DocumentPath=Project Outputs for NANORACK_PHOTODIODE\Pick Place for PHOTODIODE_V1.2.0.csv
+DocumentPath=Project Outputs for NANORACK_PHOTODIODE\Pick Place for PHOTODIODE_V1.1.2.csv
 DItemRevisionGUID=
 
 [GeneratedDocument90]
+DocumentPath=Project Outputs for NANORACK_PHOTODIODE\Pick Place for PHOTODIODE_V1.2.0.csv
+DItemRevisionGUID=
+
+[GeneratedDocument91]
 DocumentPath=Project Outputs for NANORACK_PHOTODIODE\Pick Place for PHOTODIODE_V1.2.1.csv
 DItemRevisionGUID=
 
@@ -1011,7 +1032,7 @@ PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintS
 Configuration3_Name1=ForceUpdateSettings
 Configuration3_Item1=False
 Configuration3_Name2=OutputConfigurationParameter1
-Configuration3_Item2=Record=LayerStackReportView|Units=Metric|ColumnsCount=18|Column0Name=Name|Column0Title=Name|Column0Visible=True|Column1Name=Material|Column1Title=Material|Column1Visible=True|Column2Name=Thickness|Column2Title=Thickness|Column2Visible=True|Column3Name=Constant|Column3Title=Constant|Column3Visible=True|Column4Name=DielectricConstant|Column4Title=Dk|Column4Visible=True|Column5Name=CoverlayExpansion|Column5Title=Coverlay expansion|Column5Visible=False|Column6Name=Process|Column6Title=Process|Column6Visible=False|Column7Name=Material.Color|Column7Title=Color|Column7Visible=False|Column8Name=ComponentPlacement|Column8Title=Orientation|Column8Visible=False|Column9Name=CopperOrientation|Column9Title=Copper Orientation|Column9Visible=False|Column10Name=Weight|Column10Title=Weight|Column10Visible=False|Column11Name=LossTangent|Column11Title=Df|Column11Visible=False|Column12Name=Material.Constructions|Column12Title=Constructions|Column12Visible=False|Column13Name=Material.Resin|Column13Title=Resin|Column13Visible=False|Column14Name=Material.Frequency|Column14Title=Frequency|Column14Visible=False|Column15Name=Material.GlassTransTemp|Column15Title=GlassTransTemp|Column15Visible=False|Column16Name=Material.Manufacturer|Column16Title=Manufacturer|Column16Visible=False|Column17Name=Material.Description|Column17Title=Description|Column17Visible=False|DocumentPath=D:\WorkSpace\Altium\Task_2\PHOTODIODE.PcbDoc
+Configuration3_Item2=Record=LayerStackReportView|Units=Metric|ColumnsCount=18|Column0Name=Name|Column0Title=Name|Column0Visible=True|Column1Name=Material|Column1Title=Material|Column1Visible=True|Column2Name=Thickness|Column2Title=Thickness|Column2Visible=True|Column3Name=Constant|Column3Title=Constant|Column3Visible=True|Column4Name=DielectricConstant|Column4Title=Dk|Column4Visible=True|Column5Name=CoverlayExpansion|Column5Title=Coverlay expansion|Column5Visible=False|Column6Name=Process|Column6Title=Process|Column6Visible=False|Column7Name=Material.Color|Column7Title=Color|Column7Visible=False|Column8Name=ComponentPlacement|Column8Title=Orientation|Column8Visible=False|Column9Name=CopperOrientation|Column9Title=Copper Orientation|Column9Visible=False|Column10Name=Weight|Column10Title=Weight|Column10Visible=False|Column11Name=LossTangent|Column11Title=Df|Column11Visible=False|Column12Name=Material.Constructions|Column12Title=Constructions|Column12Visible=False|Column13Name=Material.Resin|Column13Title=Resin|Column13Visible=False|Column14Name=Material.Frequency|Column14Title=Frequency|Column14Visible=False|Column15Name=Material.GlassTransTemp|Column15Title=GlassTransTemp|Column15Visible=False|Column16Name=Material.Manufacturer|Column16Title=Manufacturer|Column16Visible=False|Column17Name=Material.Description|Column17Title=Description|Column17Visible=False|DocumentPath=D:\anh_khoa\document\project\altium\space_liin_tech\NANORACK_PHOTODIODE\NANORACK_PHOTODIODE_V1.3.0\01_DESIGN\PHOTODIODE_V1.3.0.PcbDoc
 OutputType4=Final
 OutputName4=Final Artwork Prints
 OutputDocumentPath4=
