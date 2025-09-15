@@ -1,10 +1,25 @@
-Output: Report Board Stack
-Type  : Report Board Stack
-From  : Project [NANORACK_PHOTODIODE.PrjPcb]
-   Generated File[PHOTODIODE_V1.3.0.xls]
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [NANORACK_PHOTODIODE.PrjPcb]
+   Generated File[PHOTODIODE_V1.3.0_Legend_Top.gbr]
+   Generated File[PHOTODIODE_V1.3.0_Paste_Top.gbr]
+   Generated File[PHOTODIODE_V1.3.0_Soldermask_Top.gbr]
+   Generated File[PHOTODIODE_V1.3.0_Copper_Signal_Top.gbr]
+   Generated File[PHOTODIODE_V1.3.0_Copper_Signal_1.gbr]
+   Generated File[PHOTODIODE_V1.3.0_Copper_Signal_2.gbr]
+   Generated File[PHOTODIODE_V1.3.0_Copper_Signal_Bot.gbr]
+   Generated File[PHOTODIODE_V1.3.0_Soldermask_Bot.gbr]
+   Generated File[PHOTODIODE_V1.3.0_Paste_Bot.gbr]
+   Generated File[PHOTODIODE_V1.3.0_Legend_Bot.gbr]
+   Generated File[PHOTODIODE_V1.3.0_Pads_Top.gbr]
+   Generated File[PHOTODIODE_V1.3.0_Pads_Bot.gbr]
+   Generated File[PHOTODIODE_V1.3.0_Profile.gbr]
+   Generated File[PHOTODIODE_V1.3.0.RUL]
+   Generated File[PHOTODIODE_V1.3.0.EXTREP]
+   Generated File[PHOTODIODE_V1.3.0.REP]
 
 
-Files Generated   : 1
+Files Generated   : 16
 Documents Printed : 0
 
-Finished Output Generation At 13:10:22 On 15/9/25
+Finished Output Generation At 16:57:46 On 15/9/25
